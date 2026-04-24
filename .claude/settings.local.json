@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(playwright-cli)",
+      "Read(//c/Users/diemp/AppData/Local/Temp/claude/C--Users-diemp-Desktop-PWCLI2/1a33379d-3392-4123-8426-dbbea4804ad9/tasks/**)",
+      "Bash(git init *)",
+      "Bash(git remote *)",
+      "Bash(git add *)"
+    ]
+  }
+}
