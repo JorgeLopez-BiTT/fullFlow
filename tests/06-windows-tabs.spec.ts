@@ -32,7 +32,7 @@ test.describe('Switch Window / Tab Example', () => {
     ]);
 
     await newTab.waitForLoadState('load');
-    expect(newTab.url()).toContain('qaclickacademy');
+    expect(newTab.url()).toContain('erterte');
     await newTab.screenshot({ path: `${screenshotDir}/new-tab.png` });
     await newTab.close();
   });
